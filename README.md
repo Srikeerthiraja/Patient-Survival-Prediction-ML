@@ -79,5 +79,5 @@ This project uses multiple ML models, handles class imbalance, and interprets pr
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your_username>/patient_survival_ml.git
+git clone https://github.com/Srikeerthiraja/patient_survival_ml.git
 cd patient_survival_ml
